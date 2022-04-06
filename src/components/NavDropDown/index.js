@@ -20,8 +20,8 @@ const NavDropDown = (props) => (
       <AiOutlineMail/>
       </DropDownIcon>
       <DropDownTextContainer>
-        <DropDownItemTitle>Email</DropDownItemTitle>
-        <DropDownItemDesc>If you want to talk jus send a message and I'll get back</DropDownItemDesc>
+        <DropDownItemTitle>Discord</DropDownItemTitle>
+        <DropDownItemDesc>If you want to hop on a call with me please join my discord channel and ask me anything you want.</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
     <DropDownItem href="#" target="_blank" rel="noreferrer">
@@ -30,7 +30,7 @@ const NavDropDown = (props) => (
       </DropDownIcon>
       <DropDownTextContainer>
         <DropDownItemTitle>Address</DropDownItemTitle>
-        <DropDownItemDesc>1405, Angelus Dr, Florissant. Mo</DropDownItemDesc>
+        <DropDownItemDesc>Toronto, Ontario</DropDownItemDesc>
       </DropDownTextContainer>
     </DropDownItem>
   </DropDownContainer>
