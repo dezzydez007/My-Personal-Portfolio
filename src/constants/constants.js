@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Multi-Dex Dashboard for XY=Z',
     description: "Beautiful aggregator Dashboard for Uniswap, Sushiswap and other clones like this.",
-      image: '/images/3.jpg',
+      image: '/images/3.png',
       tags: ['React', 'WebRTC', 'Covalent API'],
     source: 'https://google.com',
     visit: 'https://Traderjoe-Dex-dashboard.dezzydez007.repl.co',
